@@ -26,6 +26,9 @@ RetryPayPro is crafted to handle payment processing retries with precision and e
 
 ## Features
 **Automatic Payment Retries:** Automatically retries failed payments based on configurable rules to ensure transaction success.
+
 **Real-Time Status Updates:** Provides users with immediate feedback on payment statuses and retry outcomes.
+
 **Intuitive User Interface:** A sleek and responsive UI built with React for an optimal user experience.
+
 **Comprehensive Error Handling:** Global exception handling for consistent and informative error messages. 
